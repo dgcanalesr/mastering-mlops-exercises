@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgcanales/Documents/Udemy/MasteringMLOps/hands_on_exercises/exercise_1/mlruns/588303336959729201/f5cba2dbfa3144819055890c13a36b65/artifacts
+end_time: 1694504467424
+entry_point_name: ''
+experiment_id: '588303336959729201'
+lifecycle_stage: active
+run_id: f5cba2dbfa3144819055890c13a36b65
+run_name: Dummy Classifier
+run_uuid: f5cba2dbfa3144819055890c13a36b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694504467341
+status: 3
+tags: []
+user_id: dgcanales

@@ -1,0 +1,6 @@
+artifact_location: file:///home/dgcanales/Documents/Udemy/MasteringMLOps/hands_on_exercises/exercise_1/mlruns/904922960574603899
+creation_time: 1694504251065
+experiment_id: '904922960574603899'
+last_update_time: 1694504251065
+lifecycle_stage: active
+name: churn-classifier-v1

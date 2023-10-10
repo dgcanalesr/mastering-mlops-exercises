@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgcanales/Documents/Udemy/MasteringMLOps/hands_on_exercises/exercise_1/mlruns/588303336959729201/bd592c6893694c548fd7fa692c577835/artifacts
+end_time: 1694501635078
+entry_point_name: ''
+experiment_id: '588303336959729201'
+lifecycle_stage: active
+run_id: bd592c6893694c548fd7fa692c577835
+run_name: SVM - Linear Kernel
+run_uuid: bd592c6893694c548fd7fa692c577835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694501635000
+status: 3
+tags: []
+user_id: dgcanales

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgcanales/Documents/Udemy/MasteringMLOps/hands_on_exercises/exercise_1/mlruns/588303336959729201/367053dc6f9545ee98d37325bfd685dd/artifacts
+end_time: 1694504465668
+entry_point_name: ''
+experiment_id: '588303336959729201'
+lifecycle_stage: active
+run_id: 367053dc6f9545ee98d37325bfd685dd
+run_name: Logistic Regression
+run_uuid: 367053dc6f9545ee98d37325bfd685dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694504465560
+status: 3
+tags: []
+user_id: dgcanales

@@ -1,0 +1,8 @@
+service: "service.py:clf"
+include:
+  - "train.py"
+  - "service.py" 
+python:
+  packages:
+    - numpy==1.23.5
+    - scikit-learn==1.2.2

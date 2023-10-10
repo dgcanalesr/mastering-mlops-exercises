@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgcanales/Documents/Udemy/MasteringMLOps/hands_on_exercises/exercise_1/mlruns/904922960574603899/06de6886a425400681c676b24dfa31b8/artifacts
+end_time: 1694504331371
+entry_point_name: ''
+experiment_id: '904922960574603899'
+lifecycle_stage: active
+run_id: 06de6886a425400681c676b24dfa31b8
+run_name: Extra Trees Classifier
+run_uuid: 06de6886a425400681c676b24dfa31b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694504331288
+status: 3
+tags: []
+user_id: dgcanales

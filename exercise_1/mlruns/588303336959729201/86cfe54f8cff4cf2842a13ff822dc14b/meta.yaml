@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgcanales/Documents/Udemy/MasteringMLOps/hands_on_exercises/exercise_1/mlruns/588303336959729201/86cfe54f8cff4cf2842a13ff822dc14b/artifacts
+end_time: 1694501635839
+entry_point_name: ''
+experiment_id: '588303336959729201'
+lifecycle_stage: active
+run_id: 86cfe54f8cff4cf2842a13ff822dc14b
+run_name: Gradient Boosting Classifier
+run_uuid: 86cfe54f8cff4cf2842a13ff822dc14b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694501635772
+status: 3
+tags: []
+user_id: dgcanales
